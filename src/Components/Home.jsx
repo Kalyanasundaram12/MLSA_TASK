@@ -20,9 +20,9 @@ import PropTypes from "prop-types";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/woman-with-tablet.jpg";
+import image from "../images/mlsa.jpg";
 
-const imageAltText = "Adult female in office setting leaning against a glass wall while holding a platinum Microsoft Surface Pro 7 in tablet mode preparing to write with Microsoft Surface Pen";
+const imageAltText = "Experienced student Ambassador with a demonstrated history of working in the education management industry. Skilled in Communication, English, Management, Teamwork, and Project Management. Strong education professional with a Integrated MTech focused in Computer Software Engineering from Vellore Institute of Technology.";
 
 const Home = ({ name, title }) => {
   return (
